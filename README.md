@@ -33,4 +33,4 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=nmy46sr8&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
